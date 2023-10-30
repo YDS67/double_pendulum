@@ -1,3 +1,5 @@
 /target
 *.dat
 double_pendulum.dat
+double_pendulum.dat
+*.dat
